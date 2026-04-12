@@ -1,5 +1,5 @@
 <h1 align="center">Hello <a href="https://media.giphy.com/media/jyt5LDxHz42vWkGRXy/giphy.gif?cid=790b7611whl0c42q1b765za0jp83pl40unqn81y2210utc94&ep=v1_gifs_search&rid=giphy.gif&ct=g"></a>, I'm Akshita</h1>
-<h3 align="center">A passionate AI and Computer Engineer from India. I love learning and travelling.🌍.</h3>
+<h3 align="center">A passionate AI Engineer with experience in multi-agentic systems from India. I love learning and travelling.🌍.</h3>
 <p align = "center"><img alt="Hackathon" width=300 src="typing.gif"> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=squidumb&label=Profile%20views&color=0e75b6&style=flat" alt="squidumb" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Autonomous Agents**
 
-- 👯 I’m looking to collaborate on **Bank Customer Segmentation**
+- 👯 I’m looking to collaborate on **Very interesting Finance or any other projects**
 
-- 🌱 I’m currently learning [Full-stack development](https://fullstackopen.com/en/)
+- 🌱 I’m currently learning [DSA](https://fullstackopen.com/en/)
 
 - 💬 Ask me about **Machine Learning**
 
